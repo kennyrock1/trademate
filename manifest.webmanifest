@@ -1,0 +1,17 @@
+{
+  "name": "TradeMate \u2014 Worker-owned records",
+  "short_name": "TradeMate",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f2f5f3",
+  "theme_color": "#172b32",
+  "description": "A private work-life organizer for union construction workers.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
